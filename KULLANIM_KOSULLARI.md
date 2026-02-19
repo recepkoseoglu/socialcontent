@@ -2,11 +2,11 @@
 
 **Son güncelleme:** Şubat 2025
 
-SocialContentAI ("Uygulama") hizmetlerini kullanarak bu koşulları kabul etmiş sayılırsınız.
+SocialContent ("Uygulama") hizmetlerini kullanarak bu koşulları kabul etmiş sayılırsınız.
 
 ## 1. Hizmet Tanımı
 
-SocialContentAI, sosyal medya içerikleri için AI destekli metin üretimi sunan bir mobil uygulamadır. Konu ve platform seçimine göre otomatik içerik üretir.
+SocialContent, sosyal medya içerikleri için AI destekli metin üretimi sunan bir mobil uygulamadır. Konu ve platform seçimine göre otomatik içerik üretir.
 
 ## 2. Kullanım Şartları
 

@@ -2,7 +2,7 @@
 
 **Son güncelleme:** Şubat 2025
 
-SocialContentAI abonelik planlarını kullanarak bu koşulları kabul etmiş sayılırsınız.
+SocialContent abonelik planlarını kullanarak bu koşulları kabul etmiş sayılırsınız.
 
 ## 1. Planlar
 
@@ -21,8 +21,8 @@ SocialContentAI abonelik planlarını kullanarak bu koşulları kabul etmiş say
 ## 3. İptal
 
 - İstediğiniz zaman iptal edebilirsiniz.
-- **iOS:** Ayarlar > [Adınız] > Abonelikler > SocialContentAI > İptal Et
-- **Android:** Play Store > Profil > Ödemeler ve abonelikler > Abonelikler > SocialContentAI > İptal et
+- **iOS:** Ayarlar > [Adınız] > Abonelikler > SocialContent > İptal Et
+- **Android:** Play Store > Profil > Ödemeler ve abonelikler > Abonelikler > SocialContent > İptal et
 - İptal sonrası mevcut dönem sonuna kadar planınız aktif kalır.
 
 ## 4. Ücretsiz Plana Geçiş
